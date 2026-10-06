@@ -1,0 +1,4 @@
+Metric,Score,Percentage
+Mean IoU,0.0090,0.90%
+Mean Dice,0.0146,1.46%
+Mean Pixel Accuracy,0.8281,82.81%
